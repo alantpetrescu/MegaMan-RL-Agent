@@ -1,0 +1,7 @@
+pos = fceumm_libretro.dll+166B00 (address) = 106 + 1046 = 1152
+health = fceumm_libretro.dll+1666EA (address) = 106
+score = fceumm_libretro.dll+(1666EA + 8) (address) = fceumm_libretro.dll+1666F2 (address) = 114
+1046 dif
+python -m retro.examples.interactive --game MegaMan-Nes
+python -m retro.examples.interactive --game SonicTheHedgehog-Genesis
+fceumm_libretro.dll+1CC768
